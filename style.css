@@ -1,9 +1,6 @@
 
-/* ::-webkit-scrollbar {
-    width: 0;  /* Remove scrollbar space */
-    /* background: transparent;  Optional: just make scrollbar invisible */
 body{
-    background-color: rgb(23, 23, 23);
+    background-color: rgb(36, 36, 36);
 }
 
 #form img{
