@@ -1,3 +1,14 @@
+::-webkit-scrollbar {
+    width: 9px;
+}
+::-webkit-scrollbar-track {
+background: #2f2f2f;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 2px;
+}
 
 body{
     background-color: rgb(36, 36, 36);
